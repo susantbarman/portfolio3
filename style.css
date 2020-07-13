@@ -1,0 +1,10 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+nav ol li a{
+	color: #fff!important;
+	text-decoration: none;
+}
